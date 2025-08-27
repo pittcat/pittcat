@@ -105,5 +105,5 @@ developer = {
 </div>
 
 <div align="center">
-  <h3>🚀 让代码创造价值，用技术驱动未来</h3>
+  <h3>🚀 一生想做浪漫极客</h3>
 </div>
