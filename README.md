@@ -1,126 +1,109 @@
-# 你好！👋 我是 [你的名字]
+# 👋 Hi, I'm pittcat
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=600&height=100&lines=欢迎来到我的GitHub;全栈开发者;AI+爱好者;开源贡献者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&height=100&lines=Cryptocurrency+Trading+Systems+Developer;Full+Stack+Engineer;Quantitative+Finance+Enthusiast;Building+Automated+Trading+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 关于我
 
-```javascript
-const developer = {
-    name: "你的名字",
-    location: "中国",
-    education: "计算机科学",
-    currentlyLearning: ["React", "Node.js", "Python", "机器学习"],
-    askMeAbout: ["Web开发", "数据分析", "开源项目"],
-    funFact: "我相信代码可以改变世界 🌍"
-};
+```python
+developer = {
+    "name": "pittcat",
+    "location": "Shanghai",
+    "focus": ["Crypto Trading", "Quantitative Finance", "Market Analysis"],
+    "current_projects": [
+        "Automated Trading Systems",
+        "Market Signal Analysis", 
+        "Funding Rate Arbitrage",
+        "MEV Research"
+    ],
+    "interests": ["DeFi", "Algorithmic Trading", "Blockchain", "AI/ML"],
+    "philosophy": "让数据驱动决策，让代码实现自动化 📊"
+}
 ```
 
 ## 💻 技术栈
 
 <div align="center">
 
-### 前端技术
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### 后端技术
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🐍 后端开发 & 数据分析
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 数据库
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🦀 系统编程
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 工具与平台
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 前端技术
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+### 🔧 DevOps & 工具
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 📝 编辑器 & 插件开发
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Vim Script](https://img.shields.io/badge/-Vim_Script-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
 
-## 📊 GitHub 统计数据
+## 🚀 主要项目
+
+
+
+### 🌐 Vibe Coding
+- **[Speech2Text](https://github.com/pittcat/speech2text)** - 语音转文本 Raycast 扩展
+- **[claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim)** - fzf-lua 与 Claude Code 的无缝集成插件
+- **[claude-fzf-history.nvim](https://github.com/pittcat/claude-fzf-history.nvim)** - Claude 终端对话历史浏览和导航工具
+- **[macos-screenshot.nvim](https://github.com/pittcat/macos-screenshot.nvim)** - macOS 截图插件，支持窗口和区域选择
+- **[claude-settings.nvim](https://github.com/pittcat/claude-settings.nvim)** - Claude Code 配置文件管理工具
+- **[base.nvim](https://github.com/pittcat/base.nvim)** - Neovim 插件开发模板
+
+## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pittcat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pittcat&layout=compact&theme=tokyonight"/>
 </div>
 
+
+## 💡 专注领域
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=tokyonight" alt="GitHub Streak" />
+
+| 领域 | 技术栈 | 项目经验 |
+|------|--------|----------|
+| **量化交易** | Python, CCXT, Pandas | 套利策略、自动交易系统、风控管理 |
+| **数据分析** | NumPy, Matplotlib, PostgreSQL | 市场数据分析、交易信号挖掘 |
+| **全栈开发** | React, FastAPI, TypeScript | Web3 应用、交易界面、API 服务 |
+| **插件开发** | Lua, Neovim API, Tree-sitter | Claude Code 集成、开发工具增强 |
+
 </div>
 
-## 🏆 GitHub 奖杯
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=tokyonight&row=1&column=7" alt="trophy" />
-</div>
-
-## 🔥 热门项目
-
-<div align="center">
-  <a href="https://github.com/你的用户名/项目1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目1&theme=tokyonight" alt="项目1" />
-  </a>
-  <a href="https://github.com/你的用户名/项目2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目2&theme=tokyonight" alt="项目2" />
-  </a>
-</div>
-
-## 🐍 贡献图
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/snake.svg" alt="Snake animation" />
-</div>
-
-## 📈 活动图表
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f8d847&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🎯 2024年目标
-
-- ✅ 学习新的前端框架
-- 🔄 贡献更多开源项目
-- 📚 深入学习人工智能
-- 🌟 获得1000个GitHub星标
-- 💼 参与有意义的项目
-
-## 📱 联系我
+## 📫 联系方式
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/你的用户名)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/你的linkedin)
-[![微博](https://img.shields.io/badge/-微博-E6162D?style=for-the-badge&logo=sina-weibo&logoColor=white)](https://weibo.com/你的微博)
-[![邮箱](https://img.shields.io/badge/-邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:你的邮箱@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pittcat)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pittcatwenchao@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pittcat&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
-  <h3>💖 感谢你的访问！</h3>
-  <p>记得给我的项目点个星⭐如果你觉得有用的话！</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <h3>🚀 让代码创造价值，用技术驱动未来</h3>
 </div>
